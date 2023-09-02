@@ -1,0 +1,28 @@
+{
+ "name": "foodwala",
+ "version": "1.0.0",
+ "description": "Food recipe app",
+ "default": "index.html",
+ "scripts": {
+  "start": "parcel index.html",
+  "build": "parcel build index.html --dist-dir ./dist"
+ },
+ "author": "monk-codes",
+ "license": "ISC",
+ "devDependencies": {
+  "@parcel/transformer-sass": "^2.9.3",
+  "@types/core-js": "^2.5.5",
+  "@types/regenerator-runtime": "^0.13.1",
+  "buffer": "^6.0.3",
+  "events": "^3.3.0",
+  "parcel": "^2.9.3",
+  "process": "^0.11.10",
+  "stream-browserify": "^3.0.0",
+  "util": "^0.12.5"
+ },
+ "dependencies": {
+  "fractional": "^1.0.0",
+  "regenerator-runtime": "^0.14.0",
+  "sass": "^1.26.10"
+ }
+}
