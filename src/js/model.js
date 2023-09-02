@@ -12,7 +12,7 @@ export const state = {
  bookmarks: [],
 };
 
-createRecipeObj = function (data) {
+const createRecipeObj = function (data) {
  const { recipe } = data.data;
  return {
   id: recipe.id,
