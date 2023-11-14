@@ -36,8 +36,9 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-
+![Screenshot (30)](https://github.com/Monk-Codes/foodwala/assets/84877191/681b6ba2-0de8-4833-bd79-644b046d98b4)
+![Screenshot (31)](https://github.com/Monk-Codes/foodwala/assets/84877191/5e222c67-9880-4696-8c6f-eb54cbbcf6b3)
+![Screenshot (32)](https://github.com/Monk-Codes/foodwala/assets/84877191/2d825c79-96fc-45e5-b010-04dde83a4382)
 There are many great Booking sites available on GitHub, however, I didn't find one that really suit my needs so I created this .This project is still in WIP.
 
 Here's why:
